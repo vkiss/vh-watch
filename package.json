@@ -1,0 +1,32 @@
+{
+  "name": "vh-watch",
+  "version": "1.0.0",
+  "description": "vh unity update to resolve mobile devices discrepancy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkiss/vh-watch.git"
+  },
+  "keywords": [
+    "vh",
+    "viewport",
+    "unity",
+    "mobile",
+    "browser",
+    "size",
+    "mobile"
+  ],
+  "author": {
+    "name": "Vinicius Kiss",
+    "email": "contato@vkiss.com.br",
+    "url": "https://vkiss.com.br"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkiss/vh-watch/issues"
+  },
+  "homepage": "https://github.com/vkiss/vh-watch#readme"
+}
